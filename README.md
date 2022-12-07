@@ -4,7 +4,7 @@ My wide range of coverage now being sharpened by the teachings at Columbia Unive
 - 👀 I’m interested in Alternative asset classes (crypto) as well as traditional finance application, with programming wise being interested in value creation through crawling
 - - 🌱 I’m currently learning sorting methods and optimization
 - 💞️ I’m looking to collaborate on insight and macro data.
-- 📫 How to reach me. My email sandeeprai=@hotmail.com
+- 📫 How to reach me. My email sandeeprai-@hotmail.com
 
 <!---
 Sandeep-Rai99/Sandeep-Rai99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
