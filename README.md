@@ -1,1 +1,1 @@
-Mostly interested in optimizations and web3.
+Mostly interested in optimization and web3.
